@@ -9,7 +9,7 @@
   "author": "Palmabit",
   "license": "ISC",
   "dependencies": {
-    "aws-sdk": "^2.521.0",
+    "aws-sdk": "^2.814.0",
     "cloudinary": "^1.14.0",
     "express": "^4.17.1",
     "multiparty": "^4.1.4"
